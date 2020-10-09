@@ -1,3 +1,5 @@
+# Published this npm-fixed version on npm: 
+https://www.npmjs.com/package/ccapture.js-npmfixed
 # CCapture.js - A library to capture canvas-based animations
 CCapture.js is a library to help capturing animations created with HTML5 `canvas` at a fixed framerate. 
 
